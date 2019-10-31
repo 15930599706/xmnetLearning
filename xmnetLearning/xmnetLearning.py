@@ -58,3 +58,5 @@ print(arr1.sum())
 #求矩阵的2-范数元素的平方和再开根号【欧氏距离】
 print("**********")
 print(arr2.norm().asscalar())
+
+
