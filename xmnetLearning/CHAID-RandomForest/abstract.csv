@@ -1,0 +1,2 @@
+FrameWork,Version,model,accuracy,time_trains_start,time_trains_all,test_data_num,train_data_num
+Scikit-learn,0.20.0,<class '__main__.RandomForestClassifier'>,0.953488372093,2019/12/10 14:48:30,00:00:09,130,130

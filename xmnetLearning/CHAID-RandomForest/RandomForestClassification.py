@@ -25,16 +25,8 @@ from easydict import EasyDict as edict
 import warnings
 warnings.filterwarnings("ignore")
 from config import *
-# 设置HDFS
-# client = HdfsClient(hosts='172.16.18.112,172.16.18.114', user_name='hadoop')
-# active_namenode = client.get_active_namenode()
-# HDFS_HOSTS = "hdfs://" + active_namenode.split(":")[0] + ":" + '9000'
-#
-# client1 = HdfsClient(hosts='172.16.18.112,172.16.18.114', user_name='hadoop')
-# active_namenode = client.get_active_namenode()
-# HDFS_HOSTS1 = "hdfs://" + active_namenode.split(":")[0] + ":" + '50070'
 
-
+HDFS_HOSTS1 = "http://" + active_namenode.split(":")[0] + ":" + cfg_http_port
 # 定义一棵决策树
 class Tree(object):
     def __init__(self):
@@ -339,7 +331,7 @@ def interface(train_path,test_path,output_path,target,chaid_ratio,train_split_ra
     client.delete(version_path + 'msg.csv')
     client.upload(version_path + 'msg.csv', 'msg.csv')
 
-    ## 保存训练评价指标模型报告文件 evaluation.csv
+    ## 保存训练评价指标模型报告文件
     file_csv_path =  output_path + '/evaluation/data/'
     f = open('evaluation.csv', mode='w', newline='')
     fileheader = ['accuracy', 'train_precision_score', 'train_recall_score', 'train_f1_score', 'train_roc_auc_score1']

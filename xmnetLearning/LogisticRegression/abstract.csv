@@ -1,0 +1,2 @@
+FrameWork,Version,model,accuracy,time_trains_start,time_trains_all,test_data_num,train_data_num
+Scikit-learn,0.20.0,<class 'sklearn.linear_model.logistic.LogisticRegression'>,0.818181818182,2019/12/10 13:15:07,00:00:00,100,100

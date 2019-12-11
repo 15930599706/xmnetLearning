@@ -1,0 +1,2 @@
+accuracy,train_precision_score,train_recall_score,train_f1_score,train_roc_auc_score1
+0.953488372093,0.923076923077,1.0,0.96,0.947368421053

@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1764b922-5129-46e6-a4d5-4ab516024534" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/.idea/CHAID-RandomForest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/CreditData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/CreditData_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/abstract.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/msg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/sonar.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/testData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CHAID-RandomForest/trainData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/LogisticRegression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qualitative_Bankruptcy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/abstract.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/evaluation.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logistic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/msg.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/score.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/score_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sklearn_LR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transfusion.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/.idea/lenet_finally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/dataset/train/train.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/nets/LeNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/train_hdfs_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lenet_finally/tuili.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CHAID-RandomForest/RandomForestClassification.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CHAID-RandomForest/RandomForestClassification.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1793005136">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="6" />
+          <entry key="py" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1547" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1547" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sklearn_LR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="205" selection-start-line="205" selection-end-line="205" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HDFS_HOSTS</find>
+      <find>hosts</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/interface.py" />
+        <option value="$PROJECT_DIR$/logistic.py" />
+        <option value="$PROJECT_DIR$/FileTest.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$USER_HOME$/Desktop/config.py" />
+        <option value="$PROJECT_DIR$/sklearn_LR.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="375" />
+    <option name="y" value="779" />
+    <option name="width" value="1250" />
+    <option name="height" value="870" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LogisticRegression" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LogisticRegression" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myPyCharmWorkP_duyanhui\xmnetLearning\LogisticRegression" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.config">
+    <configuration name="FileTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogisticRegression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogisticRegression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sklearn_LR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LogisticRegression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sklearn_LR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.sklearn_LR" />
+      <item itemvalue="Python.FileTest" />
+      <item itemvalue="Python.config" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.sklearn_LR" />
+        <item itemvalue="Python.FileTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1764b922-5129-46e6-a4d5-4ab516024534" name="Default Changelist" comment="" />
+      <created>1575509791521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575509791521</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="375" y="779" width="1250" height="870" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22112212" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26938775" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32928476" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32928476" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.32928476" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/anacoda/Lib/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="280" selection-start-line="280" selection-end-line="280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacoda/Lib/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="1230" selection-start-line="1230" selection-end-line="1230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacoda/Lib/site-packages/sklearn/utils/class_weight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface.py" />
+    <entry file="file://D:/anacoda/Lib/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="431" selection-start-line="431" selection-end-line="431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2966">
+          <caret line="119" column="21" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="21" />
+          <folding>
+            <element signature="e#168#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacoda/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96424">
+          <caret line="1963" selection-start-line="1963" selection-end-line="1963" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainData.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testData.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacoda/Lib/site-packages/hdfs/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29511">
+          <caret line="1112" column="6" selection-start-line="1112" selection-start-column="6" selection-end-line="1112" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacoda/Lib/site-packages/hdfs/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacoda/Lib/site-packages/easydict/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1696">
+          <caret line="111" column="8" selection-start-line="111" selection-start-column="8" selection-end-line="111" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstract.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CHAID-RandomForest/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anacoda/Lib/site-packages/pyhdfs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9531">
+          <caret line="370" column="46" selection-start-line="370" selection-start-column="40" selection-end-line="370" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sklearn_LR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
